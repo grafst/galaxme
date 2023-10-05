@@ -4,10 +4,7 @@
     display: none;
 }
 
-/*sidebar wide*/
-.HHxdW{
-    display: none;
-}
+
 
 /* volume discount */
 .iuAZxj{
@@ -25,5 +22,10 @@
 }
 
 footer{
+    display: none !important;
+}
+
+/* Left sidebar clutter (except categories)*/
+.jhbFah{
     display: none !important;
 }

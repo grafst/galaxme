@@ -21,7 +21,7 @@ This Extension makes Galaxus way mor enjoyable to shop.
 - [x] Hide:
     - [x] Galaxus Live
     - [x] Daily offer
-    - [x] Left Navigation
+    - [x] Left Navigation (optional)
     - [x] Language Toggle
     - [x] Footer
 - [x] Auto select Searchbox on order page
