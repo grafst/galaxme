@@ -7,26 +7,40 @@ This Extension makes Galaxus way mor enjoyable to shop.
 
 I would :heart: some PRs
 
+
+
 ## How To Use
 
 1. Close all Galaxus Tabs
+
 2. Clone Repository `git clone https://github.com/blemli/galaxme`
+
 3. Install in Chrome: [Load Unpacked Extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)
+
 4. Pin it to Toolbar and turn it on
+
 5. Visit https://galaxus.com
+
+   
 
 ## Features
 
 - [x] Order Page as Homepage
+
 - [x] Works on all Languages
+
 - [x] Toggle to disable
+
 - [x] Hide:
     - [x] Galaxus Live
     - [x] Daily offer
     - [x] Left Navigation (optional)
     - [x] Language Toggle
     - [x] Footer
+    
 - [x] Auto select Searchbox on order page
+
+    
 
 
 ## Ideas
@@ -47,3 +61,9 @@ I would :heart: some PRs
 - [ ] Add Order link in main navigation
 - [ ] Add Bills Link in main navigation
 - [ ] Exclude offers from certain vendors
+
+
+
+## Development
+
+[Tutorials](https://developer.chrome.com/docs/extensions/mv3/getstarted/extensions-101/#building)

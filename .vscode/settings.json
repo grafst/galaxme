@@ -7,4 +7,5 @@
     "window.autoDetectColorScheme": true,
     "workbench.preferredLightColorTheme": "Solarized Light+",
     "workbench.preferredDarkColorTheme": "Solarized Dark+",
+    "workbench.colorTheme": "Solarized Light+",
 }
