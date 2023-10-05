@@ -5,6 +5,8 @@ This Extension makes Galaxus way mor enjoyable to shop.
 
 ![2023-10-05_17-25-16](assets/2023-10-05_17-25-16.png)
 
+I would :heart: some PRs
+
 ## How To Use
 
 1. Close all Galaxus Tabs
