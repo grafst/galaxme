@@ -44,8 +44,9 @@ I would :heart: some PRs
 
 
 ## Ideas
+- [ ] Use the whole Screen width
 - [ ] Publish In Chrome-Store
-- [ ] Use the whole Screen
+- [ ] Only run on galaxus pages
 - [ ] Show single price instead of volume discounted price
 - [ ] Show label "bought" for bought articles
 - [ ] Ignore Availabilities from certain stores
@@ -57,6 +58,7 @@ I would :heart: some PRs
     - [ ] Add Shortcut to open account (e.g. `a`)
     - [ ] Add Shortcut to open wishlist (e.g. `w`)
     - [ ] Add Shortcut to open settings (e.g. `s`)
+    - [ ] Show Shortcuts with `?`
 - [ ] Always show all Filters
 - [ ] Add Order link in main navigation
 - [ ] Add Bills Link in main navigation
