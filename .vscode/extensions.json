@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "chouzz.vscode-better-align",
+        "aaron-bond.better-comments",
+        "wmaurer.change-case",
+        "streetsidesoftware.code-spell-checker",
+        "naumovs.color-highlight",
+        "sleistner.vscode-fileutils",
+        "streetsidesoftware.code-spell-checker-german",
+        "github.copilot",
+        "codezombiech.gitignore",
+        "sandcastle.vscode-open",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "ahgood.shift-shift"
+    ]
+}
