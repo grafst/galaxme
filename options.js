@@ -23,7 +23,7 @@ const saveOptions = () => {
 const restoreOptions = () => {
   chrome.storage.sync.get(
     { //favoriteColor: 'red',
-     hideCategories: true },
+     hideCategories: false },
     (items) => {
       //document.getElementById('color').value = items.favoriteColor;
       document.getElementById('hideCategories').checked = items.hideCategories;
